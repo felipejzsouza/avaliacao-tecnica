@@ -1,0 +1,5 @@
+D:\projetos\avaliacao-tecnica-credito-bancario\CreditoBancario.Domain\bin\Debug\CreditoBancario.Domain.dll
+D:\projetos\avaliacao-tecnica-credito-bancario\CreditoBancario.Domain\bin\Debug\CreditoBancario.Domain.pdb
+D:\projetos\avaliacao-tecnica-credito-bancario\CreditoBancario.Domain\obj\Debug\CreditoBancario.Domain.csproj.CoreCompileInputs.cache
+D:\projetos\avaliacao-tecnica-credito-bancario\CreditoBancario.Domain\obj\Debug\CreditoBancario.Domain.dll
+D:\projetos\avaliacao-tecnica-credito-bancario\CreditoBancario.Domain\obj\Debug\CreditoBancario.Domain.pdb
